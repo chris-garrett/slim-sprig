@@ -309,6 +309,8 @@ var genericMap = map[string]interface{}{
 	"mustRegexReplaceAllLiteral": mustRegexReplaceAllLiteral,
 	"regexSplit":                 regexSplit,
 	"mustRegexSplit":             mustRegexSplit,
+	"regexFindSubmatch":          regexFindSubmatch,
+	"mustRegexFindSubmatch":      mustRegexFindSubmatch,
 	"regexQuoteMeta":             regexQuoteMeta,
 
 	// URLs:
